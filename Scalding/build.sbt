@@ -1,9 +1,3 @@
-name := "myThrift"
- 
-version := "1.0"
- 
-scalaVersion := "2.9.3"
-
 libraryDependencies += "org.scalatest" % "scalatest_2.10" % "2.1.3" % "test"
 
 libraryDependencies += "org.scala-tools.testing" % "specs_2.9.3" % "1.6.9" % "test"
